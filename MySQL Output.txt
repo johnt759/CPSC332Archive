@@ -1,0 +1,312 @@
+========== RESTART: C:\Users\johnt\OneDrive\Documents\mysql_python2.py =========
+Connected to MySQL Server version  8.0.18
+Connected to database:  ('gallery',)
+Enter the number of artists
+3
+Enter the artist name
+Laurelle Teel
+Enter the phone number
+982-580-1486
+Enter the address
+847 N Stringfield St
+Enter the birthplace
+Virden
+Enter the artist's age
+45
+Enter the art style
+Feminist
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the artist name
+Viviette Bisset
+Enter the phone number
+645-923-6114
+Enter the address
+2043 County 36 Hwy
+Enter the birthplace
+Maragetville
+Enter the artist's age
+38
+Enter the art style
+80s Retro
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the artist name
+Sandy Fishman
+Enter the phone number
+425-193-7814
+Enter the address
+Po Box 1271
+Enter the birthplace
+Maple Falls
+Enter the artist's age
+47
+Enter the art style
+Photorealism
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the number of artworks
+3
+Enter the artist name
+Laurelle Teel
+Enter the art title
+Makeup
+Enter the art type
+Oil Paint
+Enter the date of creation
+2002-5-9
+Enter the date of acquirement
+2015-12-27
+Enter the price
+2000
+Enter the art location
+Retreat
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the artist name
+Viviette Bisset
+Enter the art title
+Neon Future
+Enter the art type
+Graphite
+Enter the date of creation
+2007-11-15
+Enter the date of acquirement
+2019-11-5
+Enter the price
+2400
+Enter the art location
+Living Room
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the artist name
+Sandy Fishman
+Enter the art title
+Self-Portrait
+Enter the art type
+Acrylic
+Enter the date of creation
+2010-12-24
+Enter the date of acquirement
+2012-2-8
+Enter the price
+2900
+Enter the art location
+Bedroom
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the number of customers
+5
+Enter the customer number
+357
+Enter the customer phone
+698-738-5908
+Enter the art preference
+Feminist
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the customer number
+366
+Enter the customer phone
+525-159-5119
+Enter the art preference
+Photorealism
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the customer number
+142
+Enter the customer phone
+843-762-6920
+Enter the art preference
+N/A
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the customer number
+670
+Enter the customer phone
+393-417-7083
+Enter the art preference
+Photorealism
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the customer number
+751
+Enter the customer phone
+742-988-6951
+Enter the art preference
+80s Retro
+Now inserting all the data into the query...
+Insertion complete.
+
+Enter the number of art shows
+1
+Enter the artist name
+Sandy Fishman
+Enter the date and time
+2019-12-18 9:36 AM
+Enter the location
+Renton
+Enter the contact name
+Diann Jinks
+Enter the contact's phone
+425-204-0629
+Now inserting all the data into the query...
+Insertion complete.
+
+Displaying the database...
+
+Now printing artist record
+Name:  Laurelle Teel
+Phone:  982-580-1486
+Address:  847 N Stringfield St
+Birthplace:  Virden
+Age:  45
+Art Style:  Feminist 
+
+Name:  Sandy Fishman
+Phone:  425-193-7814
+Address:  Po Box 1271
+Birthplace:  Maple Falls
+Age:  47
+Art Style:  Photorealism 
+
+Name:  Viviette Bisset
+Phone:  645-923-6114
+Address:  2043 County 36 Hwy
+Birthplace:  Maragetville
+Age:  38
+Art Style:  80s Retro 
+
+
+Now printing artwork record
+Artist:  Laurelle Teel
+Title:  Makeup
+Art Type:  Oil Paint
+Date Created:  2002-05-09
+Date Acquired:  2015-12-27
+Price:  2000
+Location:  Retreat 
+
+Artist:  Sandy Fishman
+Title:  Self-Portrait
+Art Type:  Acrylic
+Date Created:  2010-12-24
+Date Acquired:  2012-02-08
+Price:  2900
+Location:  Bedroom 
+
+Artist:  Viviette Bisset
+Title:  Neon Future
+Art Type:  Graphite
+Date Created:  2007-11-15
+Date Acquired:  2019-11-05
+Price:  2400
+Location:  Living Room 
+
+
+Now printing customer record
+Number:  357
+Phone:  698-738-5908
+Art Preference:  Feminist 
+
+Number:  366
+Phone:  525-159-5119
+Art Preference:  Photorealism 
+
+Number:  142
+Phone:  843-762-6920
+Art Preference:  N/A 
+
+Number:  670
+Phone:  393-417-7083
+Art Preference:  Photorealism 
+
+Number:  751
+Phone:  742-988-6951
+Art Preference:  80s Retro 
+
+
+Now printing art show record
+Artist:  Sandy Fishman
+Date & Time:  2019-12-18 9:36 AM
+Location:  Renton
+Contact Name:  Diann Jinks
+Contact Phone:  425-204-0629 
+
+Select which record to sort.
+1: Artist
+2: Artwork
+3: Customer
+4: Art show
+2
+How do you want the artwork record sorted by?
+1: Artist name
+2: Artwork title
+3: Art type
+4: Date of creation
+5: Date of acquirement
+6: Price
+7: Location of art
+6
+Sorting artwork record by price.
+Artist:  Laurelle Teel
+Title:  Makeup
+Art Type:  Oil Paint
+Date Created:  2002-05-09
+Date Acquired:  2015-12-27
+Price:  2000
+Location:  Retreat 
+
+Artist:  Viviette Bisset
+Title:  Neon Future
+Art Type:  Graphite
+Date Created:  2007-11-15
+Date Acquired:  2019-11-05
+Price:  2400
+Location:  Living Room 
+
+Artist:  Sandy Fishman
+Title:  Self-Portrait
+Art Type:  Acrylic
+Date Created:  2010-12-24
+Date Acquired:  2012-02-08
+Price:  2900
+Location:  Bedroom 
+
+Select which record to search into.
+1: Artist
+2: Artwork
+1
+What to search for in the artist record?
+1: Search for artists age 20-39
+2: Search for artists age 40-59
+3: Search for artists age 60-79
+4: Search for artists age 80+
+2
+
+Now printing artist record
+Name:  Laurelle Teel
+Phone:  982-580-1486
+Address:  847 N Stringfield St
+Birthplace:  Virden
+Age:  45
+Art Style:  Feminist 
+
+Name:  Sandy Fishman
+Phone:  425-193-7814
+Address:  Po Box 1271
+Birthplace:  Maple Falls
+Age:  47
+Art Style:  Photorealism 
+
+MySQL connection is closed
